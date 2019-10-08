@@ -6,8 +6,7 @@
 * [Clima API](https://climaapi.netlify.com/)
 * [Citas APP](https://citasapp.netlify.com/)
 
-<code>
-  #
+#
 # DUMP FILE
 #
 # Database is ported from MS Access
@@ -143,7 +142,7 @@ INSERT INTO `Trabajador` (`Id_Trabajador`, `Nombre`, `Tarifa_Hr`, `Tipo_de_Ofici
 INSERT INTO `Trabajador` (`Id_Trabajador`, `Nombre`, `Tarifa_Hr`, `Tipo_de_Oficio`, `Id_Supv`) VALUES (1412, 'C Nemo', 13.75, 'Fontanero', 1520);
 INSERT INTO `Trabajador` (`Id_Trabajador`, `Nombre`, `Tarifa_Hr`, `Tipo_de_Oficio`, `Id_Supv`) VALUES (1520, 'H Rickover', 11.75, 'Fontanero', 1520);
 INSERT INTO `Trabajador` (`Id_Trabajador`, `Nombre`, `Tarifa_Hr`, `Tipo_de_Oficio`, `Id_Supv`) VALUES (2920, 'R Garret', 10, 'Albañil', 2920);
-</code>
+
 
 
 
