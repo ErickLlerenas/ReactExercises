@@ -24,6 +24,7 @@ function App() {
   ];
 
   function onChange(value) {
+    if(value[0])
     setDogType(value[0]);
   }
 
